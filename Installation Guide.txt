@@ -1,0 +1,40 @@
+Installation Guide
+
+Prerequisites
+- Python 3.7+ installed
+- pip (Python package manager)
+
+Installation Steps
+
+Clone the Repository
+```sh
+git clone https://github.com/your-username/molecular-visualization.git
+cd molecular-visualization
+```
+
+Install Dependencies
+```sh
+pip install -r requirements.txt
+```
+
+Install the Package (Optional)
+```sh
+pip install .
+```
+
+Run the Application
+For VS Code / Local Machine
+```sh
+python app.py
+```
+Then open http://127.0.0.1:8050/ in your browser.
+
+For Google Colab
+```python
+!pip install dash dash-bootstrap-components rdkit-pypi py3Dmol flask
+!python app.py
+```
+Click the generated link to access the app.
+
+You're Ready to Go!
+Now you can visualize 2D & 3D molecular structures with ease! 
