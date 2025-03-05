@@ -12,8 +12,8 @@ Installation
 For VS Code
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/molecular-visualization.git
-   cd molecular-visualization
+git clone https://github.com/SreeVasthav-Upputoori/Basic-Molecular-Visualization-Tool.git
+cd molecular-visualization
    ```
 2. Install dependencies:
    ```sh
