@@ -1,6 +1,8 @@
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/your-username/molecular-visualization.git
-git push -u origin main
+dash
+flask
+rdkit
+pillow
+py3Dmol
+base64
+io
+threading
