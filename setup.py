@@ -16,11 +16,11 @@ setup(
             "molecular-visualizer=app:run_dash"
         ]
     },
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Sree Vasthav Upputoori",
+    author_email="sreevasthav.upputoori@gmail.com",
     description="A web-based molecular visualization tool using Dash and RDKit",
     license="MIT",
-    url="https://github.com/your-username/molecular-visualization",
+    url="https://github.com/SreeVasthav-Upputoori/molecular-visualization",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
